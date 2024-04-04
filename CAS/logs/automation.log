@@ -1,0 +1,4 @@
+19:59:42.415 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:42.447 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the Links
+19:59:42.483 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+19:59:42.485 [main] INFO  testCases.TC_005_VerifyingFifthNews - Closing the Browser

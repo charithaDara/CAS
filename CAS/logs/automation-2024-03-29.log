@@ -1,0 +1,54 @@
+19:58:50.849 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the TipTop
+19:58:50.854 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+19:58:50.857 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+19:58:50.981 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking on News
+19:58:52.359 [main] INFO  testCases.TC_004_VerifyingFourthNews - Printing the Info To Console
+19:58:52.449 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+19:58:52.451 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+19:58:52.710 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking on Associate Info Icon
+19:59:00.545 [main] INFO  testCases.TC_004_VerifyingFourthNews - Printing the Info To Console
+19:59:00.545 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+19:59:00.549 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+19:59:00.549 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking on Share Button
+19:59:00.811 [main] INFO  testCases.TC_004_VerifyingFourthNews - Printing the Info To Console
+19:59:00.886 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+19:59:00.889 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+19:59:05.925 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the Views & Likes
+19:59:06.121 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+19:59:06.123 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+19:59:06.147 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the Links
+19:59:13.788 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+19:59:13.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:59:13.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:59:13.841 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+19:59:13.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+19:59:13.845 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+19:59:13.845 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+19:59:13.847 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+19:59:13.848 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+19:59:13.848 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+19:59:13.849 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+19:59:13.850 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+19:59:13.851 [main] INFO  testCases.TC_004_VerifyingFourthNews - Closing the Browser
+19:59:18.907 [main] INFO  testCases.TC_005_VerifyingFifthNews - Launching the Browser
+19:59:22.962 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:30.974 [main] INFO  testCases.TC_005_VerifyingFifthNews - Clicking on USer Info Icon
+19:59:31.515 [main] INFO  testCases.TC_005_VerifyingFifthNews - Printing the Info To Console
+19:59:31.515 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+19:59:31.517 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:31.517 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the News
+19:59:31.540 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+19:59:31.541 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:32.103 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the TipTop
+19:59:32.103 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+19:59:32.106 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:32.236 [main] INFO  testCases.TC_005_VerifyingFifthNews - Clicking on News
+19:59:36.878 [main] INFO  testCases.TC_005_VerifyingFifthNews - Printing the Info To Console
+19:59:36.902 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+19:59:36.903 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:36.903 [main] INFO  testCases.TC_005_VerifyingFifthNews - Clicking on Share Button
+19:59:37.181 [main] INFO  testCases.TC_005_VerifyingFifthNews - Printing the Info To Console
+19:59:37.252 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+19:59:37.253 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+19:59:42.294 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the Views & Likes
+19:59:42.413 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case

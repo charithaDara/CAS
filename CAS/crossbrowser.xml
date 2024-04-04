@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="utilities.ExtentReport"></listener>
+	</listeners>
+
+	<test name="Chrome Test">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="testCases.TC_001_VerifyingFirstNews"></class>
+			<class name="testCases.TC_002_VerifyingSecondNews"></class>
+			<class name="testCases.TC_003_VerifyingThirdNews"></class>
+			<class name="testCases.TC_004_VerifyingFourthNews"></class>
+			<class name="testCases.TC_005_VerifyingFifthNews"></class>
+		</classes>
+	</test>
+
+	<test name="Edge Test">
+		<parameter name="browser" value="edge"></parameter>
+		<classes>
+			<class name="testCases.TC_001_VerifyingFirstNews"></class>
+			<class name="testCases.TC_002_VerifyingSecondNews"></class>
+			<class name="testCases.TC_003_VerifyingThirdNews"></class>
+			<class name="testCases.TC_004_VerifyingFourthNews"></class>
+			<class name="testCases.TC_005_VerifyingFifthNews"></class>
+		</classes>
+	</test>
+</suite>
